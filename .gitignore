@@ -8,6 +8,9 @@ node_modules/
 dist/
 web-build/
 
+#programData
+%ProgramData%/
+
 # Native
 *.orig.*
 *.jks
